@@ -1,0 +1,32 @@
+{
+    "documents": [
+        {
+            "patchNumber": 1, 
+            "thumbnailURL": "../../Content/Skoog/th_lproj/StoreBanner_2x.png", 
+            "subtitle": "\u0e09\u0e1a\u0e31\u0e1a Swift 3.1", 
+            "title": "Skoog", 
+            "URL": "../../Content/Skoog/Skoog.playgroundbook.zip", 
+            "detailsURL": "../../Content/Skoog/th_lproj/details.json", 
+            "contentIdentifier": "com.skoogmusic.skoog.playground", 
+            "SHA512": "c6629bcd851d8c16ce4fbe4767812f24232002daa1b20b247c3126a139e0dfd02008cac2d2965be4c69fd0aa60bd00d31a55470170e671234e62cf9525da1407", 
+            "metadata": {
+                "uuid": "D1346228-6059-454D-AA21-27AA57A9B478", 
+                "publishedDate": "2017-05-29T12:00:00+00:00"
+            }
+        }, 
+        {
+            "patchNumber": 1, 
+            "thumbnailURL": "../../Content/SkoogTemplate/th_lproj/StoreBanner_2x.png", 
+            "subtitle": "\u0e09\u0e1a\u0e31\u0e1a Swift 3.1", 
+            "title": "Skoog Template", 
+            "URL": "../../Content/SkoogTemplate/SkoogTemplate.playgroundbook.zip", 
+            "detailsURL": "../../Content/SkoogTemplate/th_lproj/details.json", 
+            "contentIdentifier": "com.skoog.playground.template", 
+            "SHA512": "ffc526e422c3d001d877845d5ead009d8917d14d6e1d84bd48f9b515d82a1ed09e9b2f48299e6c0f2ec0a8b2a5dda7fb8f65754cf6ab263627233f12617afd45", 
+            "metadata": {
+                "uuid": "F41E687D-F2C9-4995-871B-855E680E2149", 
+                "publishedDate": "2017-05-29T12:00:00+00:00"
+            }
+        }
+    ]
+}

@@ -2,10 +2,10 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/Skoog/es_419_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/Skoog/es_419_lproj/StoreBanner_2x.png", 
-            "subtitle": "Programaci\u00f3n con m\u00fasica", 
-            "description": "Aprende a programar y crear m\u00fasica junto con Swift y Skoog.\n\nAplica las habilidades de programaci\u00f3n que aprendiste en los playgrounds de \u201cAprende a programar\u201d (funciones, ciclos y condiciones) para crear tu propio instrumento musical. Aprender\u00e1s sobre notas, octavas, dispositivos de entrada, animaciones y contadores; adem\u00e1s, descubrir\u00e1s c\u00f3mo usar controladores de eventos y cambiar\u00e1s umbrales para ajustar la forma en que tu c\u00f3digo responde cuando aprietas o presionas tu Skoog. Experimenta con ecos, f\u00edsica y armon\u00eda musical usando un amigo llamado Ping.\n\n\u00bfEst\u00e1s listo para experimentar con Swift y usar tu nuevo instrumento musical?", 
+            "bannerImageURL": "../../Content/Skoog/pt_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/Skoog/pt_lproj/StoreBanner_2x.png", 
+            "subtitle": "Programa\u00e7\u00e3o com M\u00fasica", 
+            "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
             "url": "../../Content/Skoog/Skoog.playgroundbook.zip", 
             "additionalInformation": [
@@ -14,17 +14,17 @@
                     "value": "Skoogmusic Ltd"
                 }, 
                 {
-                    "name": "Versi\u00f3n:", 
+                    "name": "Vers\u00e3o:", 
                     "value": "1.0"
                 }, 
                 {
                     "type": "date", 
-                    "name": "Publicado:", 
+                    "name": "Lan\u00e7amento:", 
                     "value": "2017-05-29T12:00:00+00:00"
                 }, 
                 {
                     "name": "Idiomas:", 
-                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Japon\u00e9s, Chino simplificado y Espa\u00f1ol (Latinoam\u00e9rica)."
+                    "value": "Ingl\u00eas, alem\u00e3o, franc\u00eas, japon\u00eas, chin\u00eas simplificado e espanhol da Am\u00e9rica Latina."
                 }
             ], 
             "title": "Skoog", 
@@ -35,10 +35,10 @@
         }, 
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/SkoogTemplate/es_419_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/SkoogTemplate/es_419_lproj/StoreBanner_2x.png", 
-            "subtitle": "Programaci\u00f3n con m\u00fasica", 
-            "description": "Ponte manos a la obra con Swift y Skoog, una interfaz MIDI Bluetooth t\u00e1ctil para tu iPad o iPhone. Descubre c\u00f3mo acceder a los datos de Skoog en Swift Playgrounds y a usarlos para controlar los sonidos y efectos visuales, o como base para tus propios proyectos. Explora el glosario para obtener m\u00e1s informaci\u00f3n sobre la interfaz de programaci\u00f3n de aplicaciones (API) y revisa el contenido extra.", 
+            "bannerImageURL": "../../Content/SkoogTemplate/pt_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkoogTemplate/pt_lproj/StoreBanner_2x.png", 
+            "subtitle": "Code with Music", 
+            "description": "Get hands-on with Swift using Skoog, a tactile Bluetooth MIDI interface for your iPad and iPhone. Find out how to access data from the Skoog in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects. Explore the glossary to learn more about the Skoog API and look out for a few extras.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
             "url": "../../Content/SkoogTemplate/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
@@ -47,20 +47,20 @@
                     "value": "Skoogmusic Ltd"
                 }, 
                 {
-                    "name": "Versi\u00f3n:", 
+                    "name": "Vers\u00e3o:", 
                     "value": "1.0"
                 }, 
                 {
                     "type": "date", 
-                    "name": "Publicado:", 
+                    "name": "Lan\u00e7amento:", 
                     "value": "2017-05-29T12:00:00+00:00"
                 }, 
                 {
                     "name": "Idiomas:", 
-                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Japon\u00e9s, Chino simplificado y Espa\u00f1ol (Latinoam\u00e9rica)."
+                    "value": "Ingl\u00eas, alem\u00e3o, franc\u00eas, japon\u00eas, chin\u00eas simplificado e espanhol da Am\u00e9rica Latina."
                 }
             ], 
-            "title": "Plantilla de Skoog", 
+            "title": "Skoog Template", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoog.playground.template", 

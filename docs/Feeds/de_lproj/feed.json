@@ -1,21 +1,75 @@
 {
-    "channels": [
+    "documents": [
         {
-            "bannerImageURL": "../../Featured/de_lproj/FeaturedTabBanner.png", 
-            "documents": [], 
-            "type": "hero", 
-            "title": "Programmieren lernen"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/Skoog/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/Skoog/de_lproj/StoreBanner_2x.png", 
+            "subtitle": "Code mit Musik", 
+            "description": "Lerne mit Swift und Skoog Programmieren und Musizieren.\n\nWende die Programmierkenntnisse an, die du in den Playgrounds \u201eProgrammieren lernen\u201c (Funktionen, Schleifen und Bedingungen) kennengelernt hast, um dein eigenes Musikinstrument zu erstellen. Lerne etwas \u00fcber Noten, Oktaven, Eingabeger\u00e4te, Animation und Z\u00e4hler und finde heraus, wie du Ereignishandler verwendest. \u00c4ndere Schwellenwerte, um anzupassen, wie dein Code reagiert, wenn du deinen Skoog dr\u00fcckst und quetschst. Experimentiere zusammen mit unserem interaktivem Musikfreund \u201ePing\u201c mit Echos, Physik und der musikalischen Harmonie.\n\nWenn du bereit bist, kannst du dich jetzt an Swift wagen und dein neues Musikinstrument ausprobieren.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/Skoog/Skoog.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Englisch, Deutsch, Franz\u00f6sisch, Japanisch, Chinesisch (Vereinfacht) und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "Skoog", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.skoogmusic.skoog.playground", 
+            "sha512": "d0f2508a95e3e94bc57289353fd558823d33661d355a684f7a1438fb79b250fe369e82439e7b1e1e23b997a425c335e7089c75c07ed52fb31894db06e3b6678e"
         }, 
         {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Herausforderungen"
-        }, 
-        {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Ausgangspunkte"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkoogTemplate/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkoogTemplate/de_lproj/StoreBanner_2x.png", 
+            "subtitle": "Code mit Musik", 
+            "description": "Lerne Swift mit dem Skoog, einer taktilen Bluetooth-MIDI-Schnittstelle f\u00fcr iPad und iPhone. Finde heraus, wie du in Swift auf die Daten des Skoogs zugreifen und damit Sounds und optische Effekte steuern kannst oder auch als Sprungbrett f\u00fcr deine eigenen Projekte. Lies dir das Glossar durch, um mehr \u00fcber die Skoog-API zu erfahren und halte Ausschau nach ein paar Extas.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/SkoogTemplate/SkoogTemplate.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Englisch, Deutsch, Franz\u00f6sisch, Japanisch, Chinesisch (Vereinfacht) und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "Skoog-Vorlage", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.skoog.playground.template", 
+            "sha512": "f2d5e1ceec17a2cf0cc24cc840e1ba4e552f8ac86960cc22cd4a256e9df6e248f03097e8ddc7e262f61290a683192316d14fddabe5d387e12d4f13ab23a9394a"
         }
     ], 
-    "accessoriesFeeds": "../../Partners/Feed/de_lproj/feed.json"
+    "publisherName": "[Replace Me]", 
+    "title": "[Replace Me]", 
+    "formatVersion": "1.0", 
+    "feedIdentifier": "com.skoog", 
+    "contactURL": "mailto:replaceme@with-something-else.com"
 }

@@ -67,9 +67,9 @@
             "sha512": "f2d5e1ceec17a2cf0cc24cc840e1ba4e552f8ac86960cc22cd4a256e9df6e248f03097e8ddc7e262f61290a683192316d14fddabe5d387e12d4f13ab23a9394a"
         }
     ], 
-    "publisherName": "[Replace Me]", 
-    "title": "[Replace Me]", 
+    "publisherName": "Skoogmusic Ltd", 
+    "title": "Skoog Playground & Template", 
     "formatVersion": "1.0", 
     "feedIdentifier": "com.skoog", 
-    "contactURL": "mailto:replaceme@with-something-else.com"
+    "contactURL": "mailto:playground@skoogmusic.com"
 }

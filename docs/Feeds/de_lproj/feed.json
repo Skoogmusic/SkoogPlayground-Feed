@@ -7,7 +7,7 @@
             "subtitle": "Code mit Musik", 
             "description": "Lerne mit Swift und Skoog Programmieren und Musizieren.\n\nWende die Programmierkenntnisse an, die du in den Playgrounds \u201eProgrammieren lernen\u201c (Funktionen, Schleifen und Bedingungen) kennengelernt hast, um dein eigenes Musikinstrument zu erstellen. Lerne etwas \u00fcber Noten, Oktaven, Eingabeger\u00e4te, Animation und Z\u00e4hler und finde heraus, wie du Ereignishandler verwendest. \u00c4ndere Schwellenwerte, um anzupassen, wie dein Code reagiert, wenn du deinen Skoog dr\u00fcckst und quetschst. Experimentiere zusammen mit unserem interaktivem Musikfreund \u201ePing\u201c mit Echos, Physik und der musikalischen Harmonie.\n\nWenn du bereit bist, kannst du dich jetzt an Swift wagen und dein neues Musikinstrument ausprobieren.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/Skoog/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.1/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Urheber:", 
@@ -40,7 +40,7 @@
             "subtitle": "Code mit Musik", 
             "description": "Lerne Swift mit dem Skoog, einer taktilen Bluetooth-MIDI-Schnittstelle f\u00fcr iPad und iPhone. Finde heraus, wie du in Swift auf die Daten des Skoogs zugreifen und damit Sounds und optische Effekte steuern kannst oder auch als Sprungbrett f\u00fcr deine eigenen Projekte. Lies dir das Glossar durch, um mehr \u00fcber die Skoog-API zu erfahren und halte Ausschau nach ein paar Extas.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/SkoogTemplate/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.1/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Urheber:", 

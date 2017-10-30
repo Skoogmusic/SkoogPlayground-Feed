@@ -7,7 +7,7 @@
             "subtitle": "Du code et de la musique", 
             "description": "Apprends \u00e0 la fois \u00e0 coder et \u00e0 jouer de la musique avec Swift et Skoog.\n\nFais appel aux comp\u00e9tences de codage acquises avec les playgrounds Apprendre\u00a0\u00e0\u00a0coder (les fonctions, les boucles et le code conditionnel) pour cr\u00e9er ton propre instrument de musique. D\u00e9couvre les notes, les octaves, les appareils d\u2019entr\u00e9e, l\u2019animation et les compteurs. Apprends \u00e9galement \u00e0 utiliser des gestionnaires d\u2019\u00e9v\u00e9nements. Modifie des seuils\u00a0pour r\u00e9gler la fa\u00e7on dont ton code r\u00e9pond lorsque tu appuies sur ton Skoog ou que tu le presses. Teste les \u00e9chos, les ph\u00e9nom\u00e8nes physiques et les harmonies musicales \u00e0 l\u2019aide d\u2019un compagnon m\u00e9lomane interactif nomm\u00e9 \u00ab\u00a0Ping\u00a0\u00bb.\n\nEs-tu pr\u00eat \u00e0 te lancer avec Swift et \u00e0 tester ton nouvel instrument de musique\u00a0?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/Skoog/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.1/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "\u00c9diteur\u00a0:", 
@@ -40,7 +40,7 @@
             "subtitle": "Du code et de la musique", 
             "description": "Lance-toi avec Swift \u00e0 l\u2019aide du Skoog, une interface MIDI Bluetooth tactile pour ton iPad et ton iPhone. D\u00e9couvre comment acc\u00e9der aux donn\u00e9es du Skoog dans Swift Playgrounds, et comment les utiliser pour contr\u00f4ler des sons et des effets visuels, ou comme un point de d\u00e9part pour tes propres projets. Parcours le glossaire pour en savoir plus sur l\u2019API du Skoog et trouver quelques informations suppl\u00e9mentaires.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/SkoogTemplate/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.1/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "\u00c9diteur\u00a0:", 

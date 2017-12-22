@@ -31,7 +31,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground", 
-            "sha512": "d0f2508a95e3e94bc57289353fd558823d33661d355a684f7a1438fb79b250fe369e82439e7b1e1e23b997a425c335e7089c75c07ed52fb31894db06e3b6678e"
+            "sha512": "1a0eec56768f4dd3afc306c386276dacdd86a650c46a14a66af3103fb2ee668e6aa45313eb0430747b94688271e71fd61a9135ad73f9aa75eb2c8e3575b5f4a9"
         }, 
         {
             "previewImageURLs": [], 
@@ -64,7 +64,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground.template", 
-            "sha512": "8fc2f614690e98b51a0c1dbdce4a0e5c9bed32ad10fc7bcbe6942ae8a9089bf090f0a27b3b07f9c353b2cfac6372278f514a1e135ad2dbcf4488a8bd69e33831"
+            "sha512": "1e0b7b3b86a5754c3ecb01481f375dbfa6bbcc646f20e69498761e123ac05db6cba6e6f420bd06d3d02d901b68e0eafcd3a3fab6c3077fccaafdd578bd7b1402"
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

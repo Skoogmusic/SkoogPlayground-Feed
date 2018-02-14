@@ -8,7 +8,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.2/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.3/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Editore:", 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Get hands-on with Swift using Skoog, a tactile Bluetooth MIDI interface for your iPad and iPhone. Find out how to access data from the Skoog in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects. Explore the glossary to learn more about the Skoog API and look out for a few extras.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.2/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/v1.0.3/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Editore:", 

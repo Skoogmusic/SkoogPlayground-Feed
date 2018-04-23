@@ -99,7 +99,7 @@
             "title": "Skoog & Sphero", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.sphero.spheroSkoog", 
+            "contentIdentifier": "com.skoogmusic.spheroSkoog", 
             "sha512": "bc73688218c258bde31966f0417219acffc5ff5b0a61da6248b73a5a70dc5bbc71940a440d15a1fd791fc1799c6791fd1887557489b0f32fc356609de5456550"
         } 
     ], 

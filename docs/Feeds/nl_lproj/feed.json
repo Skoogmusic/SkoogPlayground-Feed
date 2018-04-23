@@ -67,6 +67,40 @@
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground.template", 
             "sha512": "1e0b7b3b86a5754c3ecb01481f375dbfa6bbcc646f20e69498761e123ac05db6cba6e6f420bd06d3d02d901b68e0eafcd3a3fab6c3077fccaafdd578bd7b1402"
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkoogSphero/en_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkoogSphero/en_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
+            "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/SpheroSkoogTemplate.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ], 
+            "title": "Skoog & Sphero", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.sphero.spheroSkoog", 
+            "sha512": "bc73688218c258bde31966f0417219acffc5ff5b0a61da6248b73a5a70dc5bbc71940a440d15a1fd791fc1799c6791fd1887557489b0f32fc356609de5456550"
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

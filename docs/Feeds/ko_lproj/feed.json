@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
             "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/SpheroSkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/SpheroSkoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -99,8 +99,8 @@
             "title": "Skoog & Sphero", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.sphero.spheroSkoog", 
-            "sha512": "bc73688218c258bde31966f0417219acffc5ff5b0a61da6248b73a5a70dc5bbc71940a440d15a1fd791fc1799c6791fd1887557489b0f32fc356609de5456550"
+            "contentIdentifier": "com.skoogmusic.spheroSkoog", 
+            "sha512": "ba47a5ad88faf308d9eee9948677455aa2deba6afd9bd432d870170bfb6426a0b497da660f371dfaf8d3ea21d42954c16cd36734dc7b7e78e8d844487a4f6edf"
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

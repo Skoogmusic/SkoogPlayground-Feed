@@ -32,7 +32,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground", 
-            "sha512": "1a0eec56768f4dd3afc306c386276dacdd86a650c46a14a66af3103fb2ee668e6aa45313eb0430747b94688271e71fd61a9135ad73f9aa75eb2c8e3575b5f4a9"
+            "sha512": "5681be9f1be3df4147546538a56b9f910e032274c259d9f2ae59f7a618492bfe79900fe335eb6f0af3bd7d7b9f7cedb8a1d02dc0c113cf91e16e4d937bdf3aca"
         }, 
         {
             "previewImageURLs": [], 
@@ -66,7 +66,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground.template", 
-            "sha512": "1e0b7b3b86a5754c3ecb01481f375dbfa6bbcc646f20e69498761e123ac05db6cba6e6f420bd06d3d02d901b68e0eafcd3a3fab6c3077fccaafdd578bd7b1402"
+            "sha512": "f3d8ed87283ec6306383105855c746767310bd91836457497d519d36047f78c0f182c155d2fa129634fdd88d293266acb4c46c02cec8c9b93f6834cb0aabf66d"
         },
 {
             "previewImageURLs": [], 

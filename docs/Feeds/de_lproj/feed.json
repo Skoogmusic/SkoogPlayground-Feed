@@ -8,7 +8,7 @@
             "detailSubtitle" : "Mit Swift und Skoog Codierung und Musik zum Leben erwecken.", 
             "description": "Lerne mit Swift und Skoog Programmieren und Musizieren.\n\nWende die Programmierkenntnisse an, die du in den Playgrounds \u201eProgrammieren lernen\u201c (Funktionen, Schleifen und Bedingungen) kennengelernt hast, um dein eigenes Musikinstrument zu erstellen. Lerne etwas \u00fcber Noten, Oktaven, Eingabeger\u00e4te, Animation und Z\u00e4hler und finde heraus, wie du Ereignishandler verwendest. \u00c4ndere Schwellenwerte, um anzupassen, wie dein Code reagiert, wenn du deinen Skoog dr\u00fcckst und quetschst. Experimentiere zusammen mit unserem interaktivem Musikfreund \u201ePing\u201c mit Echos, Physik und der musikalischen Harmonie.\n\nWenn du bereit bist, kannst du dich jetzt an Swift wagen und dein neues Musikinstrument ausprobieren.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Urheber:", 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Mit Swift und Skoog Codierung und Musik zum Leben erwecken.",  
             "description": "Lerne Swift mit dem Skoog, einer taktilen Bluetooth-MIDI-Schnittstelle f\u00fcr iPad und iPhone. Finde heraus, wie du in Swift auf die Daten des Skoogs zugreifen und damit Sounds und optische Effekte steuern kannst oder auch als Sprungbrett f\u00fcr deine eigenen Projekte. Lies dir das Glossar durch, um mehr \u00fcber die Skoog-API zu erfahren und halte Ausschau nach ein paar Extas.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Urheber:", 
@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
             "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.4/SpheroSkoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/SpheroSkoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 

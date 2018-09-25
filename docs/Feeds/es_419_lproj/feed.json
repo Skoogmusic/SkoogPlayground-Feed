@@ -8,7 +8,7 @@
             "detailSubtitle" : "Haz nacer la programaci\u00f3n y la m\u00fasica con Swift y Skoog.",
             "description": "Aprende a programar y crear m\u00fasica junto con Swift y Skoog.\n\nAplica las habilidades de programaci\u00f3n que aprendiste en los playgrounds de \u201cAprende a programar\u201d (funciones, ciclos y condiciones) para crear tu propio instrumento musical. Aprender\u00e1s sobre notas, octavas, dispositivos de entrada, animaciones y contadores; adem\u00e1s, descubrir\u00e1s c\u00f3mo usar controladores de eventos y cambiar\u00e1s umbrales para ajustar la forma en que tu c\u00f3digo responde cuando aprietas o presionas tu Skoog. Experimenta con ecos, f\u00edsica y armon\u00eda musical usando un amigo llamado Ping.\n\n\u00bfEst\u00e1s listo para experimentar con Swift y usar tu nuevo instrumento musical?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Editor:", 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Haz nacer la programaci\u00f3n y la m\u00fasica con Swift y Skoog.",
             "description": "Ponte manos a la obra con Swift y Skoog, una interfaz MIDI Bluetooth t\u00e1ctil para tu iPad o iPhone. Descubre c\u00f3mo acceder a los datos de Skoog en Swift Playgrounds y a usarlos para controlar los sonidos y efectos visuales, o como base para tus propios proyectos. Explora el glosario para obtener m\u00e1s informaci\u00f3n sobre la interfaz de programaci\u00f3n de aplicaciones (API) y revisa el contenido extra.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Editor:", 
@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
             "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.5/SpheroSkoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SpheroSkoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -101,7 +101,41 @@
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.spheroSkoog", 
             "sha512": "ba47a5ad88faf308d9eee9948677455aa2deba6afd9bd432d870170bfb6426a0b497da660f371dfaf8d3ea21d42954c16cd36734dc7b7e78e8d844487a4f6edf"
-        }
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/Skwitch/en_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/Skwitch/en_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Bring coding and music to life with Swift and Skwitch!.", 
+            "description": "Get hands-on with Swift using Skwitch, an expressive multi-use controller for iPhone. Find out how to access data from the Skwitch in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects.", 
+            "publishedDate": "2018-09-25T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/Skwitch.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2018-09-25T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English."
+                }
+            ], 
+            "title": "Skwitch", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
+            "contentIdentifier": "com.skoogmusic.skwitch.playground", 
+            "sha512": "e5647d6064e9ebff8683e842be34d7465355294ceeb00b438ba690e08f24e730b73a729a314230172291bbf9f265c7f0151e5d29124bb8432a411ed66eb17b1e"
+        } 
     ], 
     "publisherName": "Skoogmusic Ltd", 
     "title": "Skoog Playgrounds", 

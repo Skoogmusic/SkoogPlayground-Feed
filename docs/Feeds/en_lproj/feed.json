@@ -8,7 +8,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.",
             "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.7/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Get hands-on with Swift using Skoog, a tactile Bluetooth MIDI interface for your iPad and iPhone. Find out how to access data from the Skoog in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects. Explore the glossary to learn more about the Skoog API and look out for a few extras.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.7/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
             "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SpheroSkoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.7/SpheroSkoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -110,7 +110,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skwitch!.", 
             "description": "Get hands-on with Swift using Skwitch, an expressive multi-use controller for iPhone. Find out how to access data from the Skwitch in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/Skwitch.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.7/Skwitch.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -144,7 +144,7 @@
             "detailSubtitle" : "Control Droids and Drones with Swift and Skwitch!.", 
             "description": "Control droids and drones with Swift using Skwitch, an expressive multi-use controller for iPhone.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SkwitchDroidsDrones.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.7/SkwitchDroidsDrones.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 

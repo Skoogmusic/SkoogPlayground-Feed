@@ -135,6 +135,40 @@
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skwitch.playground", 
             "sha512": "e5647d6064e9ebff8683e842be34d7465355294ceeb00b438ba690e08f24e730b73a729a314230172291bbf9f265c7f0151e5d29124bb8432a411ed66eb17b1e"
+        }, 
+		{
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkwitchDroidsandDrones/en_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkwitchDroidsandDrones/en_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Control Droids and Drones with Swift and Skwitch!.", 
+            "description": "Control droids and drones with Swift using Skwitch, an expressive multi-use controller for iPhone.", 
+            "publishedDate": "2018-09-25T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.6/SkwitchDroidsDrones.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2018-09-25T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English."
+                }
+            ], 
+            "title": "Skwitch Droids & Drones", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
+            "contentIdentifier": "com.skoogmusic.skoog.skoogDroids", 
+            "sha512": "3fa3a1faaed641afc1628bc93905eaea3b48f8acae5966695d672f40ef1b66b25d3d045b3f6468b671b67062d3652caf0a44c5a69089e4a22c58cba9a40476ce"
         } 
     ], 
     "publisherName": "Skoogmusic Ltd", 

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>alpha</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>图像或形状的“Alpha”属性决定透明度。Alpha 值为 0.0 即完全透明（不可见），值为 1.0 即完全不透明（可见）。介于这两个之间的值可让你透视图像或形状。</string>
+				<key>Title</key>
+				<string>Alpha</string>
+			</dict>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>传入函数以自定其行为的输入值。例如，在名为 `move(distance: 3)` 的函数中，`3` 是用来指定移动多少空间的实参。</string>
+				<key>Title</key>
+				<string>实参</string>
+			</dict>
+		</dict>
+		<key>calibrate</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page1_Connect.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>相互连接</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Skoog 会自行校准，但有时需要用户告诉它什么情况下属于无触碰。
+如果 Skoog 在你没有按下按钮时发出声音，**轻点实时视图中的 Skoog 圆圈或图形来校准即可**。</string>
+				<key>Title</key>
+				<string>校准</string>
+			</dict>
+		</dict>
+		<key>connect</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page1_Connect.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>相互连接</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>![Button Image?](PressButton.png)
+1. 找到 Skoog 底部的小按钮，按下它启动 Skoog，这时绿灯会亮起。
+2. 再按一次该按钮激活蓝牙，蓝灯会开始闪烁。
+3. 把 Skoog 放在平面上。
+4. 在列表中找到你的 Skoog，轻点它进行配对。**在此期间请勿触碰 Skoog。**
+5. Skoog 图标会出现在屏幕右上角。请开始你的 skoog 之旅吧！
+
+**注意：** 请确保关闭 Skoog 应用后，再连接 Playground。</string>
+				<key>Title</key>
+				<string>如何连接 Skoog</string>
+			</dict>
+		</dict>
+		<key>eventHandler</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page2_HandlingSkoog.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>处理 Skoog</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>事件处理程序是一个函数，处理接收到的输入（事件）并传入程序中。</string>
+				<key>Title</key>
+				<string>事件处理程序</string>
+			</dict>
+		</dict>
+		<key>key</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>每首歌都有一个调，它定义了形成动听音乐的音符集。</string>
+				<key>Title</key>
+				<string>调</string>
+			</dict>
+		</dict>
+		<key>midiNumber</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page7_RightNotes.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>敲中正确的音符</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>MIDI 编号是介于 0 到 127 之间的一个数字，与下方图表显示的[音符](glossary://note)相对应。MIDI 编号 60 即中央 C 或 C3（显示为灰色）。
+![MIDInote Image?](midiNotes.png)</string>
+				<key>Title</key>
+				<string>MIDI 编号</string>
+			</dict>
+		</dict>
+		<key>note</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page7_RightNotes.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>敲中正确的音符</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>音符是音高可辨别的声音。音符在西洋音乐中以 C、C♯、D、E♭、E、F、F♯、G、G♯、A、B♭ 表示。B 如下方图表所示。![keyboard Image?](keyboard.png)</string>
+				<key>Title</key>
+				<string>音符</string>
+			</dict>
+		</dict>
+		<key>octave</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>一个音高与另一个音高（频率为前者的一半或两倍）之间的间隔。相差一个八度音音程的两个音符字母名称相同，但相差 12 个 MIDI 编号。例如，A4 比 A3 高一个八度音音程，但比 A5 低一个八度音音程。</string>
+				<key>Title</key>
+				<string>八度音</string>
+			</dict>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>函数的输入值的名称，用在函数的定义中。例如，在函数 `move(distance: Int)` 中，`distance` 是一个采用 `Int` 类型的值的参数。</string>
+				<key>Title</key>
+				<string>参数</string>
+			</dict>
+		</dict>
+		<key>scale</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>按顺序排列的一组音符，通常根据音高以递增或递减顺序排列，属于某个特定的[调](glossary://key)，并且通常在某个[八度音](glossary://octave)音程内。</string>
+				<key>Title</key>
+				<string>音阶</string>
+			</dict>
+		</dict>
+		<key>simpleTest</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page1_Connect.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>相互连接</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>若要检查 Skoog 是否正常工作，请按照这些简单的步骤操作：
+
+1. 按下 Skoog 的顶部按钮。iPad 应该会发出声音，同时屏幕上的圆圈变成橙色。
+2. 拿稳 Skoog 的底部，避免同时按下了两个按钮，然后依次按下 Skoog 的其他按钮，圆圈的颜色应与所按下的按钮颜色相同。
+
+如果你的 Skoog 工作异常，或者它没有在被触碰时发出声音，**轻点实时视图中的圆圈来[校准](glossary://calibrate) Skoog 即可**。</string>
+				<key>Title</key>
+				<string>简单测试</string>
+			</dict>
+		</dict>
+		<key>soundStyles</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page5_MeetTheBand.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>我的声音是什么？</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>可用的声音风格：
+
+`.acid`、`.afromallet`、`.candybee`、`.elecpiano`、`.jharp`、`.electrhode`、`.fmModulator`、`.minimogo`、`.ocarina`、`.nylonguitar`、`.solarwind`、`.timpani`、`.gamelan`、`.strat`、`.marimba`、`.vibraphone`。</string>
+				<key>Title</key>
+				<string>声音风格</string>
+			</dict>
+		</dict>
+		<key>string</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>字符串即一串字符，如“Skoog”。</string>
+				<key>Title</key>
+				<string>字符串</string>
+			</dict>
+		</dict>
+		<key>threshold</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1_Basic.playgroundchapter/Page3_SetThresholds.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>更改响应</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>在代码中，阈值用于改变程序该如何响应新的数据。通常如果一个值低于阈值，会使用某一组行为；高于阈值时，则会使用另一组行为。</string>
+				<key>Title</key>
+				<string>阈值</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

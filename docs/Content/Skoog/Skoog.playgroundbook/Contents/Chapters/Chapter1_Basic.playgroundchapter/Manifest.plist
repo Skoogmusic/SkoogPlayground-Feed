@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Description</key>
+	<string></string>
+	<key>Pages</key>
+	<array>
+		<string>Introduction.cutscenepage</string>
+		<string>Page1_Connect.playgroundpage</string>
+		<string>Page2_HandlingSkoog.playgroundpage</string>
+		<string>Page3_SetThresholds.playgroundpage</string>
+		<string>Page4_MySound.playgroundpage</string>
+		<string>Page5_MeetTheBand.playgroundpage</string>
+		<string>Page6_InTheLoop.playgroundpage</string>
+		<string>Page7_RightNotes.playgroundpage</string>
+		<string>Page8_HardSoft.playgroundpage</string>
+		<string>Page9_SqueezableShapes.playgroundpage</string>
+		<string>Page10_MakingWaves.playgroundpage</string>
+		<string>Page11_HardSoftWaves.playgroundpage</string>
+		<string>Page12_Ping.playgroundpage</string>
+		<string>Page13_PingPing.playgroundpage</string>
+	</array>
+</dict>
+</plist>

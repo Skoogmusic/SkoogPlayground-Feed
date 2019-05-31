@@ -8,7 +8,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.8/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.9/Skoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Get hands-on with Swift using Skoog, a tactile Bluetooth MIDI interface for your iPad and iPhone. Find out how to access data from the Skoog in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects. Explore the glossary to learn more about the Skoog API and look out for a few extras.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.8/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.9/SkoogTemplate.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skwitch!.", 
             "description": "Get hands-on with Swift using Skwitch, an expressive multi-use controller for iPhone. Find out how to access data from the Skwitch in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.8/Skwitch.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.9/Skwitch.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -101,6 +101,74 @@
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skwitch.playground", 
             "sha512": "4c061563efd76e1b5347eb8aae61a171bc366863688d812b88f51398fbb9d45e2a91f6244650f003b5e8191734f3ee731e731451c3cb390f13e24df80b8bf7f5"
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkoogSphero/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkoogSphero/de_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
+            "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.9/SpheroSkoog.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ], 
+            "title": "Skoog & Sphero", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.skoogmusic.spheroSkoog", 
+            "sha512": "b4b2c8ca25ca38eee62fe98b429e3fc940a300acc0595438193e15aa531c1dc90856a0e027189de58d6195778a4d4a9640ccceebac8b272be4a928d5295df21a"
+        }, 
+		{
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkwitchDroidsandDrones/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkwitchDroidsandDrones/de_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Control Droids and Drones with Swift and Skwitch!.", 
+            "description": "Control droids and drones with Swift using Skwitch, an expressive multi-use controller for iPhone.", 
+            "publishedDate": "2018-09-25T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.9/SkwitchDroidsDrones.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2018-09-25T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English."
+                }
+            ], 
+            "title": "Skwitch Droids & Drones", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
+            "contentIdentifier": "com.skoog.skoogDroids", 
+            "sha512": "57d3d2083f494f121b4d0e1ca3cc99c69b64073c99e2d7db9292cbc9cd546bcb14cac1a69400640bc3b6e23e046a57872e66e1f602eedcb02ad52a24f8afa06b"
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

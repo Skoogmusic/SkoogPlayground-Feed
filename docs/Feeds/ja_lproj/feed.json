@@ -169,6 +169,40 @@
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": ""com.skoogmusic.skoogDroids"", 
             "sha512": "57d3d2083f494f121b4d0e1ca3cc99c69b64073c99e2d7db9292cbc9cd546bcb14cac1a69400640bc3b6e23e046a57872e66e1f602eedcb02ad52a24f8afa06b"
+        }, 
+		{
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/SkoogDash/en_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/SkoogDash/en_lproj/StoreBanner_2x.png", 
+            "overviewSubtitle": "Code with Music", 
+            "detailSubtitle" : "Control Dash with Swift and Skoog!.", 
+            "description": "Control Dash with Swift using Skoog.", 
+            "publishedDate": "2018-09-25T12:00:00+00:00", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.10/DashSkoog.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Skoogmusic Ltd"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2018-09-25T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English."
+                }
+            ], 
+            "title": "Skoog & Dash", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
+            "contentIdentifier": "com.skoogmusic.dashskoog", 
+            "sha512": "cff057ba6f4850aa7c09df4a8910ed931b7001d1fa6aa022729ef883b56c636e0a9bf0b350e3403c15189f0947bcaec3919fc53d27c3bd5f04e50c0ed8fc40ec"
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

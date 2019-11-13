@@ -134,7 +134,8 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.spheroSkoog", 
-            "sha512": "b4b2c8ca25ca38eee62fe98b429e3fc940a300acc0595438193e15aa531c1dc90856a0e027189de58d6195778a4d4a9640ccceebac8b272be4a928d5295df21a"
+            "sha512": "b4b2c8ca25ca38eee62fe98b429e3fc940a300acc0595438193e15aa531c1dc90856a0e027189de58d6195778a4d4a9640ccceebac8b272be4a928d5295df21a",
+            "supportedDevices":["iPad"]
         }, 
 		{
             "previewImageURLs": [], 
@@ -168,7 +169,8 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoogDroids", 
-            "sha512": "57d3d2083f494f121b4d0e1ca3cc99c69b64073c99e2d7db9292cbc9cd546bcb14cac1a69400640bc3b6e23e046a57872e66e1f602eedcb02ad52a24f8afa06b"
+            "sha512": "57d3d2083f494f121b4d0e1ca3cc99c69b64073c99e2d7db9292cbc9cd546bcb14cac1a69400640bc3b6e23e046a57872e66e1f602eedcb02ad52a24f8afa06b",
+            "supportedDevices":["iPad"]
         }, 
 		{
             "previewImageURLs": [], 
@@ -202,7 +204,8 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.dashskoog", 
-            "sha512": "86d382494a17f12573354f64d33644bc14bc67f0f87611c5e842c4c1e61d066376156559892707e3c30fbe095bc81fd392d612f881b0db2788b752326b2ccc63"
+            "sha512": "86d382494a17f12573354f64d33644bc14bc67f0f87611c5e842c4c1e61d066376156559892707e3c30fbe095bc81fd392d612f881b0db2788b752326b2ccc63",
+            "supportedDevices":["iPad"]
         }
     ], 
     "publisherName": "Skoogmusic Ltd", 

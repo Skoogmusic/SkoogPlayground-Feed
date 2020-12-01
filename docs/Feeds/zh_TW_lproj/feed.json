@@ -8,7 +8,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.",
             "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.11/Skoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/Skoog.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -32,7 +32,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground", 
-            "sha512": "5b00634ebe1332e5328e3c3d6562800dd892c35df849c6a820fd66de3d745ce61fde6505bf0c57f3fa5be4b346e2ea37bda97a1637a760086e8bb13b86ee1161"
+            "sha512": "fb53066137babcbc5fe7f05e6dda8e4ccb1c6bac790ea83c5b1707f6eeafd499e47c8afaa04d6b3b4c1305985f585a6c7718208fb3df96244d577223732ecde7"
         }, 
         {
             "previewImageURLs": [], 
@@ -42,7 +42,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.", 
             "description": "Get hands-on with Swift using Skoog, a tactile Bluetooth MIDI interface for your iPad and iPhone. Find out how to access data from the Skoog in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects. Explore the glossary to learn more about the Skoog API and look out for a few extras.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.12/SkoogTemplate.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/SkoogTemplate.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -66,7 +66,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.skoog.playground.template", 
-            "sha512": "4030cbb2348456077dd8b26d181aceccf369a35736207d213b25820eab156448d299fe156926a3efe44ae089bc344aee157027bf7616c7be362dece3da057396"
+            "sha512": "279172836ac4d9c8b1a927950ab1f0a720813c06344a5e8532f47b3a2deac468391545e90e734b32fa5472427719bdbbc8434896b77b800c8b89747ac557723f"
         },
         {
             "previewImageURLs": [], 
@@ -76,7 +76,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift and Skwitch!.", 
             "description": "Get hands-on with Swift using Skwitch, an expressive multi-use controller for iPhone. Find out how to access data from the Skwitch in Swift Playgrounds and use it to control sounds and visuals, or as a springboard for your own projects.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.12/Skwitch.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/Skwitch.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -110,7 +110,7 @@
             "detailSubtitle" : "Bring coding and music to life with Swift, Skoog and Sphero!.", 
             "description": "Get hands-on with Swift using Skoog and Sphero. Use data from the Skoog and use it to control and drive Sphero with color!.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.12/SpheroSkoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/SpheroSkoog.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -134,7 +134,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.spheroSkoog", 
-            "sha512": "b4b2c8ca25ca38eee62fe98b429e3fc940a300acc0595438193e15aa531c1dc90856a0e027189de58d6195778a4d4a9640ccceebac8b272be4a928d5295df21a",
+            "sha512": "b5800993059620ad3349344f4d00691db97254a010e362da90321c2a5c05c3f481dc127d7ac4dbc6811e8ba8646d93262b9751d3333e7afc30387dc6b654df65",
             "supportedDevices":["iPad"]
         }, 
 		{
@@ -145,7 +145,7 @@
             "detailSubtitle" : "Control Droids and Drones with Swift and Skwitch!.", 
             "description": "Control droids and drones with Swift using Skwitch, an expressive multi-use controller for iPhone.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.12/SkwitchDroidsDrones.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/SkwitchDroidsDrones.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -180,7 +180,7 @@
             "detailSubtitle" : "Control Dash with Swift and Skoog!.", 
             "description": "Control Dash with Swift using Skoog.", 
             "publishedDate": "2018-09-25T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.12/DashSkoog.playgroundbook.zip", 
+            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/DashSkoog.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -204,7 +204,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2018-05-25T12:00:00+00:00", 
             "contentIdentifier": "com.skoogmusic.dashskoog", 
-            "sha512": "86d382494a17f12573354f64d33644bc14bc67f0f87611c5e842c4c1e61d066376156559892707e3c30fbe095bc81fd392d612f881b0db2788b752326b2ccc63",
+            "sha512": "ba127f9b0116cdee6898fe6a5e5f485848858739d23a87ccf7d526a583a37bf194941c59c651f789d8ddc27c7b692c0535d0e79755f17e54a270e663571f1f91",
             "supportedDevices":["iPad"]
         }
     ], 

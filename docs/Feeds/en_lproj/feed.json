@@ -1,38 +1,43 @@
-{
-    "documents": [
+{   
+	"title": "Skoog Playgrounds",
+    	"publisherName": "Skoogmusic Ltd", 
+     	"feedIdentifier": "com.skoogmusic", 
+    	"contactURL": "mailto:playground@skoogmusic.com"
+	"formatVersion": "1.0", 
+    	"documents": [
         {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/Skoog/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/Skoog/en_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "Code with Music", 
-            "detailSubtitle" : "Bring coding and music to life with Swift and Skoog.",
-            "description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/Skoog.playgroundbook.zip",
-            "additionalInformation": [
-                {
-                    "name": "Publisher:", 
-                    "value": "Skoogmusic Ltd"
-                }, 
-                {
-                    "name": "Version:", 
-                    "value": "1.0"
-                }, 
-                {
-                    "type": "date", 
-                    "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
-                }, 
-                {
-                    "name": "Languages:", 
-                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
-                }
-            ], 
-            "title": "Skoog", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.skoogmusic.skoog.playground", 
-            "sha512": "70d056d47b701cee6412f91270a3eea3dd47781fb710971a07fc0e504381dca2888df3021f3f46619424912b210010d20e4d3e438ee7f8bec5cd6530b895da3a"
+		"title": "Skoog", 
+            	"overviewSubtitle": "Code with Music", 
+            	"detailSubtitle" : "Bring coding and music to life with Swift and Skoog.",
+            	"description": "Learn coding and music together with Swift and Skoog.\n\nApply coding skills picked up in the Learn to Code playgrounds (functions, loops, and conditionals) to create your own musical instrument.  Learn about notes, octaves, input devices, animation, counters, and find out how to use event handlers. Change thresholds to adjust how your code responds to presses and squeezes on your Skoog.  Experiment with echoes, physics, and musical harmony using an interactive musical buddy called \u2018Ping\u2019.\n\nAre you ready to get hands-on with Swift and take your new musical instrument for a spin?",
+		"contentIdentifier": "com.skoogmusic.skoog.playground",
+		"contentVersion": "1.0",
+            	"url": "https://github.com/Skoogmusic/SkoogPlayground-Feed/releases/download/1.0.13/Skoog.playgroundbook.zip",
+		"publishedDate": "2017-05-29T12:00:00+00:00",
+		"lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+		"thumbnailURL": "../../Content/Skoog/en_lproj/StoreBanner_2x.png",
+		"bannerImageURL": "../../Content/Skoog/en_lproj/DetailsBanner_2x.png", 
+            	"additionalInformation": [
+                	{
+                    		"name": "Publisher:", 
+                    		"value": "Skoogmusic Ltd"
+                	}, 
+                	{
+                    		"name": "Version:", 
+                    		"value": "1.0"
+                	}, 
+                	{
+                    		"type": "date", 
+                    		"name": "Released:", 
+                    		"value": "2017-05-29T12:00:00+00:00"
+                	}, 
+                	{
+                    		"name": "Languages:", 
+                    		"value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                	}
+            	],
+		"previewImageURLs": [], 
+            	"sha512": "70d056d47b701cee6412f91270a3eea3dd47781fb710971a07fc0e504381dca2888df3021f3f46619424912b210010d20e4d3e438ee7f8bec5cd6530b895da3a"
         }, 
         {
             "previewImageURLs": [], 
@@ -207,10 +212,5 @@
             "sha512": "ba127f9b0116cdee6898fe6a5e5f485848858739d23a87ccf7d526a583a37bf194941c59c651f789d8ddc27c7b692c0535d0e79755f17e54a270e663571f1f91",
             "supportedDevices":["iPad"]
         }
-    ], 
-    "publisherName": "Skoogmusic Ltd", 
-    "title": "Skoog Playgrounds", 
-    "formatVersion": "1.0", 
-    "feedIdentifier": "com.skoogmusic", 
-    "contactURL": "mailto:playground@skoogmusic.com"
+    ]
 }
